@@ -21,27 +21,28 @@ __ckopecky__
 
 >Provide a paragraph (5-8 sentences) summarizing the work you did this week, the challenges you faced, the tools you used, and your accomplishments.
 
-The week started off with creating backend endpoints so that a user can be created, read, updated and deleted. In addition, endpoints were created for create, read, update and delete a movie review. My involvement was with the PUT and DELETE endpoints of both models using PostgreSQL. 
+The week started off with creating backend endpoints so that a user can be created, read, updated and deleted. In addition, endpoints were created for create, read, update and delete a movie review. My involvement was with the PUT and DELETE endpoints of reviews model and the PUT endpoint of the users model using PostgreSQL. 
 
-A challenge I had here was that I came to Lambda School and I learned MongoDB. Just the one week of SQL done back in CS didn't really prepare me for using relational databases -- because of deadlines, I used a teammate's repo from a previous project they did to come up with the endpoints in time. 
+A challenge I had here was that I came to Lambda School and I learned MongoDB. Just the one week of SQL done back in CS didn't really prepare me for using relational databases -- because of deadlines, I used a teammate's repo from a previous project they did to come up with the endpoints in time because a perpetual zoom that he wanted me to be a part of didn't allow me to go off and learn things on my own or watch videos to see how things were implemented. 
 
 I don't feel like I really learned much, but I can at least tell you what the code is doing. I needed the time for a PostgreSQL crash course and that is not something I was able to do. 
 
 On the front end, what was a design for the landing page, became the hero element for the home page. It contains the search logic that taps into the TMDB database and returns search results based on a movie query. 
 
-It only taps into the movie model and does tap into a multi model API where one can search different media-types and people. This is a stretch goal and will not likely be implemented for MVP. 
+It only taps into the movie model and does not tap into a multi model API where one can search different media-types and people. This is a stretch goal and will not likely be implemented for MVP. 
 
-I also refactored code to direct state management to be at the top of our application so that it's easier to concern ourselves with props. This left the only class component at the time to be the App.js component. All others became presentational components. 
+I also refactored code to direct state management to be at the top of our application so that it's easier to concern ourselves with props. This left the only class component (at the time)to be the App.js component. All others became presentational components. 
 
-After our teammate left the team, I took the time to redeploy our application on my Netlify Account. 
+After our teammate left the team, I took the time to redeploy our application on my Netlify Account. The only thing left to do on this is to wait for Twitter to approve my developer account so that I can get a new Twitter Key and Consumer Secret for the Passport JS Twitter Strategy. I have applied for and have a Google Client ID and Client Secret so that I can apply Google OAuth to our application next week. 
 
 __Accomplishments?__
 
-Even though it was uncalled for, I have the ability to defend my code if I need to. This will prove great practice for Capstone Defense and I am happy that I got the chance to practice that -- even though the code review was uncalled for when everything worked properly. 
+Even though it was uncalled for, I have the ability to defend my code if I need to. This will prove great practice for Capstone Defense and I am happy that I got the chance to practice that -- even though the code review was uncalled for when everything worked properly by this teammate. 
 
 
 
-Tasks Pulled
+##### Tasks Pulled
+
 List the tasks you pulled this week, and provide a link to the successfully merged PR completing that task and the trello card for that task.  You must have at least one front end and one back end. The expected total is 6 with a minimum of 4.
 
 [PR Front End #1: Hero Element That Will Eventually Live on Home Page](https://github.com/Lambda-School-Labs/labs10-movie-reviews/pull/48)
