@@ -29,7 +29,7 @@ I implemented a backup plan that included Google's People API -- which needed on
 
 ![Google Strategy.js](./assets/Screenshot-0.png)
 
-In addition, I implememnted the middleware needed to protect the routes that needed an account to be set up on. Once I understood what _withCredentials_ meant, it was a homerun. I was able to make sure those credentials were present and accounted for and that the user could move on beyond the gate of the protected route. 
+In addition, I implemented the middleware needed to protect the routes that needed an account to be set up on. Once I understood what _withCredentials_ meant, it was a homerun. I was able to make sure those credentials were present and accounted for and that the user could move on beyond the gate of the protected route. 
 
 That being said, there have been some blunders this week. Utter exhaustion has led to missing little things I would never miss otherwise. Right now there is something going on with our postgresql database on the heroku server and I am just sitting cross-eyed trying to figure out what the error is. 
 
