@@ -21,7 +21,7 @@ __ckopecky__
 
 >Provide a paragraph (5-8 sentences) summarizing the work you did this week, the challenges you faced, the tools you used, and your accomplishments.
 
-My main task this week was oauth after it was decided that Twitter placed too much of a limitation on our user base -- a previous team member made the decision to go with Twitter just to get the 0Auth requirement out of the way and because it was easy - without putting too much thought into the user experience. We decided to change that and implement Google instead. 
+My main task this week was 0auth after it was decided that Twitter placed too much of a limitation on our user base -- a previous team member made the decision to go with Twitter just to get the 0Auth requirement out of the way and because it was easy - without putting too much thought into the user experience. We decided to change that and implement Google instead. 
 
 With the Passport.JS framework already given to us, it was thought at first it might be pretty simple to implement the Google Strategy. Even though I was assured that their Google Plus API would still work with Passport.JS, I was experiencing some anomalies that I could possibly attribute to the deprecation of the Google Plus API -- weird Google Plus API errors -- that the API was disabled -- even though I had it set up on the Console Developer's Site. 
 
@@ -90,7 +90,7 @@ As you can see in the next screenshot, if I am to login using the site, I do rec
 
 ![Google Prompt on Deployed Site](./assets/Screenshot-3.png)
 
->As you can see in the picture below, we are on the deployed https://cineview.netlify.com sute where I have logged in - and you can see that I have logged in because the sign in button is gone and has been replaced with my Google avatar and a dropdown menu of options for the site. 
+>As you can see in the picture below, we are on the deployed https://cineview.netlify.com site where I have logged in - and you can see that I have logged in because the sign in button is gone and has been replaced with my Google avatar and a dropdown menu of options for the site. 
 
 ![placeholder image example](./assets/Screenshot-4.png)
 
