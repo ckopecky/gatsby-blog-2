@@ -103,7 +103,7 @@ I honestly don't feel we were given adequate time to make our product look and f
 
 We have had a multitude of issues with our backend that took a long time to get help with and our frontend has kind of suffered for it. We have no color scheme. We have no error handling. We won't have a complete product by the end of next week and it actually really disappoints me that I have worked this hard and I don't necessarily have something that I am 100% proud of. 
 
-We lost a developer and we have been doing the work on a project scoped for five developers. As one of the stronger developers on the team , I am overworked and underpaid. :P 
+We lost a developer and we have been doing the work on a project scoped for five developers. 
 
 I would love to work for Labs 11, but this is burning me out too much - I just want to go to work and get paid to do it. 
 
