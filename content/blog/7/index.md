@@ -1,6 +1,6 @@
 ---
-title: We get to flex our UX/UI muscles!
-date: "2019-03-15"
+title: And now we deal with bugs...
+date: "2019-03-22"
 ---
 
 >Paste your team’s github contribution graph here 
